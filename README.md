@@ -4,4 +4,4 @@
 
 **Author:** Francisco Javier Parada Gomez Urquiza <fparadagomezurqu@worldbank.org>
 
-Image('bangladesh_violins.png', width = 600)
+![Bangladesh](bangladesh_violins.png)
